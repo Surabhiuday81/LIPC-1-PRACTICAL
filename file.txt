@@ -97,7 +97,7 @@ tar -xf data
 cd extracted_directory
 cat data.txt
 
-executed references:-
+
 
 
 
