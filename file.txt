@@ -1,0 +1,20 @@
+LIPC-1 PRACTICAL RECORD OverTheWire Bandit Wargame
+
+Course: Udemy LIPC-1 (Levels 101–500) Website: https://overthewire.org/wargames/bandit/
+
+Initial Login Command ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
+Bandit Level 0 to Level 1 Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+Bandit Level 1 to Level 2 Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Bandit Level 2 to Level 3 Password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+Bandit Level 3 to Level 4 Password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+Bandit Level 4 to Level 5  Password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+Bandit Level 5 to Level 6 Password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+Bandit Level 6 to Level 7  Password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+Bandit Level 7 to Level 8 Password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+Bandit Level 8 to Level 9 Password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+Bandit Level 9 to Level 10 Password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+Bandit Level 10 to Level 11 Password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+Bandit Level 11 to Level 12 Password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+Bandit Level 12 to Level 13 Password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
